@@ -1,4 +1,4 @@
-# hive_test
+# FlutterNoSQL
 
 A new Flutter project.
 
