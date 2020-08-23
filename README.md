@@ -1,6 +1,6 @@
 # FlutterNoSQL
 
-A new Flutter project.
+## Implementation of Hive NoSQL for flutter 
 
 ## Getting Started
 
